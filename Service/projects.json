@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "headerimg": "img/badkamer_projecten.jpg",
+    "naam": "badkamer",
+    "gemaakt": "Erwin Jansen Niels Bisseling",
+    "beschrijving": "Deze badkamer is ruim van opzet ongeveer 12 vierkante meter vloeropervakte. Zeer geschikt om een Villeroy Boch WHIRLPOOL en een Hupe Manga 5000 DOUCHECABINE te plaatsen wat in deze ruimte er goed tot zijn recht komt.",
+    "imgarr": ["img/badkamer_projecten.jpg","img/projecten-3-kleine-img.jpg"]
+  },
+  {
+    "id": 1,
+    "headerimg": "img/projecten-3-kleine-img.jpg",
+    "naam": "badkamer",
+    "gemaakt": "Erwin Jansen Niels Bisseling",
+    "beschrijving": " Wij danken Rene en Renate voor hun opdracht en vooral hun goede zorgen. Wij hopen dat jullie lang plezier mogen hebben van jullie mooie badkamer. De ruimte is vergroot door het douchegedeelte in een bestaandekast te maken.",
+    "imgarr": ["img/bedrijf.jpg","img/projecten-3-kleine-img.jpg"]
+  }
+]

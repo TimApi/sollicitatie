@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Audrey Apon",
+    "headshot": "img/user.png",
+    "stars" : 5,
+    "location": "Nederland",
+    "body": "Dankzij Peter Jansen vof hebben we een prachtige design badkamer, die er na 15 jaar en 7 jaar huurders in ons huis nog steeds super uitziet. Ook de verwarmingsketel was 'in no time' door Peter Jansen vof geregeld. Alles altijd in goed overleg en prijs/ kwaliteit verhouding altijd transparant."
+  },
+  {
+    "id": 2,
+    "name": "Henk Berens",
+    "headshot": "img/user.png",
+    "stars" : 5,
+    "location": "Nederland",
+    "body": "Goede en snelle service"
+  },
+  {
+    "id": 3,
+    "name": "Maarten van Schaik",
+    "headshot": "img/user.png",
+    "stars" : 5,
+    "location": "Nederland",
+    "body": "Goed en duidelijk contact, snelle service en oplevering. Veel maar kan ik niet om vragen!"
+  },
+  {
+    "id": 4,
+    "name": "Ivo van Boeijen",
+    "headshot": "img/user.png",
+    "stars" : 5,
+    "location": "Nederland",
+    "body": "Super team, werken netjes, zijn kritisch en eerlijk. Wij genieten nog iedere dag van het moois wat mede door de firma Jansen is mogelijk gemaakt."
+  },
+  {
+    "id": 5,
+    "name": "Ben Turfboer",
+    "headshot": "img/user.png",
+    "stars" : 5,
+    "location": "Nederland",
+    "body": "Goede service, bij storing wordt er direct actie ondernomen!"
+  },
+  {
+    "id": 6,
+    "name": "Rob ten Bhomer",
+    "headshot": "img/user.png",
+    "stars" : 5,
+    "location": "Nederland",
+    "body": "Goede service en eerlijk advies op maat."
+  }
+]
